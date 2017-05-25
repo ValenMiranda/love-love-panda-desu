@@ -6,3 +6,38 @@ font-family: 'Raleway', sans-serif;
 */
 
 /* Escribe tu código acá debajo */
+
+*{
+	font-family: 'Raleway', sans-serif;
+	margin: 0;
+}
+
+body{
+	width: 100%;
+}
+
+.nav-bar{
+	background-color: #F78E69;
+	margin: 0;
+	height: 220px;
+}
+
+.nav-bar{
+	position: relative;
+}
+
+.nav-bar h1{
+	color: white;
+	font-size: 50px;
+	position: absolute;
+	bottom: 95px;
+	right: 30px;
+}
+
+.nav-bar p{
+	color: white;
+	float: right;
+	position: absolute;
+	bottom: 55px;
+	right: 30px;
+}
