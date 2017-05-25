@@ -14,6 +14,11 @@ font-family: 'Raleway', sans-serif;
 
 body{
 	width: 100%;
+	background-image: url('../img/uno.jpg');
+	background-repeat: no-repeat no-repeat;
+	max-width: 100%;
+	height: auto;
+	/*filter: grayscale(100%);*/
 }
 
 .nav-bar{
@@ -41,3 +46,4 @@ body{
 	bottom: 55px;
 	right: 30px;
 }
+
